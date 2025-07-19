@@ -1,8 +1,8 @@
 @echo off
-title Zip crakcer by Mr.robot
+title archive crakcer by E1337
 color 2
 if not exist "C:\Program Files\7-Zip" (
-	echo 7-Zip not installed!
+	echo 7-Zip not installed!insatll it first.
 	pause
 	exit
 )
@@ -35,7 +35,7 @@ exit
 "C:\Program Files\7-Zip\7z.exe" x -p%pass% "%archive%" -o"cracked" -y >nul 2>&1
 echo ATTEMPT : %pass%
 if /I %errorlevel% EQU 0 (
-	echo Zip has been cracked saccesfully(: %pass%
+	echo Zip has been cracked succesfully(: %pass%
 	pause
 	exit
 )
