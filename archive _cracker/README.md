@@ -27,8 +27,9 @@ Supports **any archive format supported by 7-Zip**, including:
 open the archive_cracker.bat file then simply drag the archive you want to crack to the cmd screen make sure to remove the "" if you see them then drag the wordlist file. enjoy!
 
 Example:
+```bash
 secret.zip password.txt
-
+```
 Where:
 secret.zip is the name of your protected archive (e.g., secret.7z, hidden.rar)
 
