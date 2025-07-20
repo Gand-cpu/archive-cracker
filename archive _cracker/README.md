@@ -35,3 +35,11 @@ secret.zip is the name of your protected archive (e.g., secret.7z, hidden.rar)
 
 password.txt is your password list file
 
+# Author
+
+Made by [E1337]. Contributions and feedback are welcome!
+
+# Disclaimer
+
+This tool is intended **for educational purposes only** and to be used **exclusively on systems you own or have explicit permission to test
+
